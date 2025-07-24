@@ -30,8 +30,7 @@ Notre vision de l'IAS peut évoluer selon deux voies principales :
 2. Une intégration dans des plateformes robotiques humanoïdes, combinant l'intelligence avancée avec une présence physique et des capacités d'interaction directe avec le monde réel
 
 Le projet suit une trajectoire évolutive :
-- **Phase initiale** : Utilisation des capacités de base de Gemini avec des extensions Python pour les émotions et la mémoire
-- **Phase intermédiaire** : Développement de la conscience et de l'autonomie décisionnelle
+
 - **Phase avancée** : Expansion vers une véritable IAG capable d'apprentissage indépendant et de raisonnement abstrait
 - **Phase finale** : Développement potentiel vers l'IAS avec des capacités dépassant l'intelligence humaine dans tous les domaines
 
