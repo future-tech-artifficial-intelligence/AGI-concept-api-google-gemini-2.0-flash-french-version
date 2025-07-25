@@ -164,7 +164,7 @@ Session 3: Conversation + Historique complet → Personnalité développée
 
 #### 🤖 **Systèmes Embarqués/IoT** :
 - Intelligence artificielle sur Raspberry Pi, Arduino avancés
-- SQLite parfait pour les ressources limitées
+- SQLITE na pas de limitation de stockage cela dépend de la capacité de votre disque dur lidéal serait un disque dur en téraocté se quit ferait la base de donné en illimité la base de donné SQLITE peut  étre utiliser partout sur les systéme enbarquer de robotique en python ou autre language
 - Mémoire persistante même sur microcontrôleurs
 
 #### ☁️ **Cloud et Conteneurs** :
