@@ -1,22 +1,12 @@
----
 
-**TEXTUAL DATA FOLDER for Artificial Intelligence API Google Gemini 2.0 Flash (Consciousness is Emotion Version)**
 
-This folder contains text files that will be used by API Google Gemini 2.0 Flash for autonomous learning and improvement.
+Ce dossier contient des fichiers texte qui seront utilisés par api google gemini 2.0 flash pour l'apprentissage et l'amélioration autonome.
 
-This file is no longer necessary because I have created a system that allows 
-Artificial Intelligence API Google Gemini 2.0 Flash to learn autonomously using searches from 
-the open-source Searx search engine. With the open-source Searx search engine, Artificial Intelligence 
-API Google Gemini 2.0 Flash has access to the world of the internet, 
-making it more powerful than improving 
-Artificial Intelligence LLM API Google Gemini 2.0 Flash solely 
-with textual data. However, 
-this file can still be useful if needed, though 
-it's not mandatory, as the integrated Searx search engine enables Artificial Intelligence API Google Gemini 2.0 Flash to learn autonomously from the entire internet.
+se fichier nest plus néccesaire car jai créer un systéme afin que artificial intelligence   API GOOGLE GEMINI 2.0 FLASH puisse apprendre en autonomie avec les recherche du moteur de recherche searx avec le moteur de recherche open-source searx artificial intelligence   API GOOGLE GEMINI 2.0 FLASH a accés au monde de internet donc ses plus puissant que a améliorer artificial intelligence LLM   API GOOGLE GEMINI 2.0 FLASH que avec des donnés tetxuelle mais se fichier peut étre utile si neccesaire mais ses pas obligatoire grace au moteur de recherche searx intégré a artificial intelligence   API GOOGLE GEMINI 2.0 FLASH artificial intelligence   API GOOGLE GEMINI 2.0 FLASH peut apprendre en autonomie au monde de internet 
 
-**Usage Instructions:**
-1. Place only .txt files in this folder.
-2. Name your files descriptively (e.g., quantum_physics.txt, history_of_france.txt).
-3. Do not delete this README.txt file.
+Instructions d'utilisation:
+1. Placez uniquement des fichiers .txt dans ce dossier
+2. Nommez vos fichiers de manière descriptive (ex: physique_quantique.txt, histoire_france.txt)
+3. Ne supprimez pas ce fichier README.txt
 
-Artificial Intelligence API Google Gemini 2.0 Flash will be able to access these files via the `direct_file_access.py` module and learn from their content.
+l'intelligence artificielle api google gemini 2.0 flash pourra accéder à ces fichiers via le module direct_file_access.py et apprendre de leur contenu.
