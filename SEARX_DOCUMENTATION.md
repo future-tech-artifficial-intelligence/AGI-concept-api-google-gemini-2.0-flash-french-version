@@ -2,7 +2,13 @@
 
 ## Vue d'ensemble
 
-Le système de recherche Searx intégré permet à l'API Gemini d'effectuer des recherches autonomes en temps réel en utilisant le parsing HTML au lieu du web scraping traditionnel. Cette approche offre des performances supérieures et une meilleure fiabilité.
+Le système de recherche Searx intégré permet à intelligence artificielle API GOOGLE GEMINI 2.0 FLASH d'effectuer des recherches autonomes en temps réel en utilisant le parsing HTML au lieu du web scraping traditionnel. Cette approche offre des performances supérieures et une meilleure fiabilité
+
+
+installation de docker est nécessaire car docker va permettre de prendre en charge le métamoteur de recherche opensource searx cela est essentiel afin artificial intelligence API GOOGLE GEMINI 2.0 FLASH puisse faire des recherches sur internet et s'améliorer en autonomie avec le métamoteur de recherche searx le lien pour installer docker desktop https://www.docker.com/
+
+
+
 
 ## 🎯 Fonctionnalités
 
