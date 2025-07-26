@@ -378,12 +378,15 @@ Pour obtenir de l'aide à l'installation, vous pouvez utiliser Claude 3.5 Sonnet
 5. **Configurer l'API Gemini**
    - Créez un compte sur [Google AI Studio](https://makersuite.google.com/app/apikey)
    - Générez une clé API
-   - Créez un fichier `.env` à la racine du projet et ajoutez votre clé :
+
+pour information l'API de l'intelligence artificielle multimodal LLM google gemini 2.0 Flash est gratuite elle n'est pas payante pour l'utilisateur un grand merci a google pour cela sa permet de l'utiliser pour des projets opensource
+    
+ - Créez un fichier `.env` à la racine du projet et ajoutez votre clé :
      ```
      GEMINI_API_KEY=votre_clé_api
      ```
 
-6. **Lancer l'application**
+7. **Lancer l'application**
    ```bash
    python app.py
    ```
