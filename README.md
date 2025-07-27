@@ -342,7 +342,8 @@ Vous pouvez installer le projet en utilisant Visual Studio Code, disponible sur 
 - **VS Code** : https://code.visualstudio.com/
 - **GitHub Copilot** : https://github.com/features/copilot
 
-Pour obtenir de l'aide à l'installation, vous pouvez utiliser Claude 3.5 Sonnet en mode agent (disponible en version gratuite).
+Pour obtenir de l'aide à l'installation, vous pouvez utiliser Claude 3.5 Sonnet en mode agent (disponible en version gratuite) 
+Github copilote a une version payante a 10 euros par mois le tarif est très intéressant car les modèles d'intelligence artificielle de codage comme Claude Sonnet 4 de anthropic ou autre modèle d'intelligence artificielle de codage sont en illimité donc je trouve le tarif très bien car ses en illimité pour utiliser le modèle d'intelligence artificielle spécialisée en codage Claude Sonnet 4 de anthropic le modèle Claude Sonnet 4 de anthropic est plus puissant que Claude Sonnet 3.5 ses logique car Claude Sonnet 4 de anthropic ses une version améliorée  
 
 ### Étapes d'installation
 
